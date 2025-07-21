@@ -1,6 +1,6 @@
 # 🏦 Banking Management System
 
-A  backend project simulating a real-world banking system built with Java, Spring Boot, and MySQL. It features user registration and login using JWT authentication, account creation (Savings & Current), secure fund transfer, deposit/withdrawal operations, transaction history, and admin-level functionalities. The project follows best practices with layered architecture, role-based access control, exception handling, and clean RESTful API design.
+A  backend project simulating a real-world banking system built with Java, Spring Boot, and PostgreSql. It features user registration and login using JWT authentication, account creation (Savings & Current), secure fund transfer, deposit/withdrawal operations, transaction history, and admin-level functionalities. The project follows best practices with layered architecture, role-based access control, exception handling, and clean RESTful API design.
 t 
 
 ---
@@ -51,14 +51,14 @@ t
 
 ## 🧰 Technology Stack
 
-| Component   | Technology         |
-|------------|--------------------|
-| Language    | Java               |
-| Framework   | Spring Boot        |
-| ORM         | JPA (Hibernate)    |
-| Database    | MySQL              |
+| Component   | Technology            |
+|------------|-----------------------|
+| Language    | Java                  |
+| Framework   | Spring Boot           |
+| ORM         | JPA (Hibernate)       |
+| Database    | PostgreSQL            |
 | Security    | Spring Security + JWT |
-| Build Tool  | Maven              |
+| Build Tool  | Maven                 |
 
 ---
 

@@ -22,7 +22,7 @@ target/
 # Ignore Spring Boot config
 src/main/resources/application.properties
 
-git commit -m "Ignore application.properties"
+
 
 
 ### NetBeans ###
